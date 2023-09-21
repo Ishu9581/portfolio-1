@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to right bottom , paleturquoise , rgb(139, 178, 174),paleturquoise);
+}
+.rr{
+    color: black;
+    text-align: center;
+}
+.container{
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    width: 1000px;
+    margin-left: 100px;
+
+}
+.container img{
+    width: 300px;
+    height: 200px;
+}
+figcaption{
+    text-align: center;
+}
+
+
+
